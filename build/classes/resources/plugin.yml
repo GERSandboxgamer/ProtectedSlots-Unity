@@ -1,0 +1,5 @@
+name: ProtectedSlots
+main: de.sbg.unity.protectedslots.ProtectedSlots
+version: 2.0.1
+author: Sandboxgamer
+description: "Protect Slots for Admins"
